@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A iournall of the most memorable passages in Ireland. Especially that victorious battell at Munster, beginning the 25. of August 1642. and continued. Wherein is related the siege of Ardmore Castle; together with a true and perfect description of the famous battell of Liscarroll. Written by a worthy gentleman, who was present at both these services.</title>
+            <author>Worthy gentleman who was present at both these services.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87382</idno>
+            <idno type="STC">Wing J1100</idno>
+            <idno type="STC">Thomason E123_15</idno>
+            <idno type="STC">ESTC R15628</idno>
+            <idno type="EEBO-CITATION">99859899</idno>
+            <idno type="PROQUEST">99859899</idno>
+            <idno type="VID">156156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156156)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E123[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A iournall of the most memorable passages in Ireland. Especially that victorious battell at Munster, beginning the 25. of August 1642. and continued. Wherein is related the siege of Ardmore Castle; together with a true and perfect description of the famous battell of Liscarroll. Written by a worthy gentleman, who was present at both these services.</title>
+                  <author>Worthy gentleman who was present at both these services.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 19. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ardmore Castle (Waterford) --  Siege, 1642 --  Early works to 1800.</term>
+               <term>Clare (Ireland) --  History, Military --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Liscarroll (Cork) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156156:1" rendition="simple:additions"/>
+            <p>A IOVRNALL OF The moſt Memorable Paſſa<g ref="char:EOLhyphen"/>ges in <hi>IRELAND.</hi>
+            </p>
+            <p>Eſpecially that Victorious Battell at <hi>Munſter,</hi> beginning the 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. of <hi>Auguſt</hi> 1642. and continued.</p>
+            <p>Wherein is related the Siege of <hi>Ardmore</hi> Caſtle; Together with a true and perfect Deſcription of the famous Battell of <hi>Liſcarroll.</hi>
+            </p>
+            <p>Written by a worthy Gentleman, who was pre<g ref="char:EOLhyphen"/>ſent at both theſe Services.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. S. October</hi> 19. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156156:2"/>
+            <pb n="1" facs="tcp:156156:2"/>
+            <head>A Iournall of the moſt memorable Paſſages in <hi>Ireland,</hi> eſpecially that victorious battell at <hi>Munster,</hi> beginning the 26 of <hi>August,</hi> 1642. and continued.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the <hi>Iriſh</hi> had gathered together the grea<g ref="char:EOLhyphen"/>teſt part of their Forces about <hi>Killmallocke,</hi> with intention to paſſe the Mountaines into the County of <hi>Corke,</hi> and found they ſhould receive oppoſition by our Army, which was drawne up to <hi>Duneraile</hi> and <hi>Mallo,</hi> with reſo<g ref="char:EOLhyphen"/>lution to encounter them, if they once deſcen<g ref="char:EOLhyphen"/>ded into the Plaines, they againe retreated towards <hi>Limmericke,</hi> and we about the 20. of <hi>Auguſt,</hi> Disbanded and went to our ſeverall Garriſons, both with like intentions of gathering the Harveſt of the Countrey. Sir <hi>John Paulets,</hi> and Sir <hi>William Ogles</hi> Regiments went to <hi>Corke,</hi> and <hi>Kingſale,</hi> the old Regiment was Gar<g ref="char:EOLhyphen"/>riſon'd about <hi>Duneraile,</hi> part of Sir <hi>Charles Vavaſors,</hi> lay at <hi>Malle,</hi> the reſt that went to <hi>Youghall</hi> were commanded to obey the Lords <hi>Dungarvan,</hi> and <hi>Broghils,</hi> who having procured a Culverine to be ſent along with them, reſolved, as ſoone as our men were re<g ref="char:EOLhyphen"/>freſhed after their March, to take in the Caſtle of <hi>Ardmore.</hi> The Fort is of its owne nature, ſtrong and defenſible, it was well man<g ref="char:EOLhyphen"/>ned with 100. able Souldiers beſides the people of the Countrey, it had munition ſufficient, ſo we expected not to gaine it, but after a long Siege. Notwithſtanding it being a place of good conſe<g ref="char:EOLhyphen"/>quence affording the Enemy meanes of getting the Harveſt on that ſide in ſecurity, and blocking us up in <hi>Piltowne</hi> and <hi>Youghall,</hi> ſo that a man durſt not appeare on the other part of the River, we reſol<g ref="char:EOLhyphen"/>ved the taking of it, and upon Fryday, being the 26. of <hi>Auguſt,</hi> we marched from <hi>Liſmore,</hi> towards the Caſtle. Our Forces were about 400. all Muskets, beſides 60. Horſe, part of the two Lords
+<pb n="2" facs="tcp:156156:3"/>Troopes, by the way we ſummoned the Caſtle of <hi>Glogh Ballydonus</hi> which promiſed to yeeld and receive our Garriſon, if Mr. <hi>Fitz<g ref="char:EOLhyphen"/>gerard</hi> of <hi>Dromany</hi> would permit; we were ſatisfied with the an<g ref="char:EOLhyphen"/>ſwer, Mr. <hi>Fitzgerard</hi> being yet our Friend; and the place being of no great importance, ſo that it was not thought convenient to loſe time there, but Marched away and ſate downe before <hi>Ardmore;</hi> The ſame day about three of the clocke in the afternoone we ſum<g ref="char:EOLhyphen"/>mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d it, but they not admitting of a Parley, we Quartered our ſelves about the Caſtle, expecting our Culverine which we ſent downe by water; In the meane time our men poſſeſſed them<g ref="char:EOLhyphen"/>ſelves of ſome out-houſes belonging to the Caſtle, whereby we with more ſecurity might play upon the Enemies Spikes, and they in the evening fired the reſt. All the beginning of the night they played from the Caſtle very hotly upon us, but nevertheleſſe we ran up and tooke the Church from them, ſo that now we were within Piſtoll ſhot of the Caſtle; this did much advantage us, for beſides proviſion, whereof there was good quantity, the Church ſtanding high beate into their Bawne, ſo that from hence they loſt the uſe of it, and were forced to containe themſelves within the Walls of the Caſtle. There was yet the Steeple of the Church, ſomething diſ-joyned from the body of it, yet remaining, which was well manned, Powder and Bullets they had ſufficient, but wanted Guns, there being no more then two Muskets onely a<g ref="char:EOLhyphen"/>mong forty men, the Church cut off all hope of ſupplies from them; ſo that we were confident to have it ſurrendred either for want of proviſion or Ammunition. Thus we ſpent that night; next morning there appeared about 100. Horſe, and 300. Foote of the Enemy, and it was generally beleeved there was a more conſi<g ref="char:EOLhyphen"/>derable number following; we received the Alarme with joy and courage, and leaving onely ſufficient to continue the Siege, drew forth the reſt of our men, reſolving to encounter them; but as our men advanced, they retreated towards <hi>Dungarvan,</hi> our Horſe could not follow by reaſon of a Glinne betwixt us and them, and our Foot would have beene too ſlow to overtake theirs. We returned therefore to our Quarters, where we received intelligence from <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llo,</hi> that all the Enemies Forces were againe drawne into a Bo<g ref="char:EOLhyphen"/>dy, and upon their march towards <hi>Duneraile;</hi> whereupon we were commanded to be at an houres warning: this troubled us, onely becauſe we feared we ſhould raiſe the Sieges, and now more then
+<pb n="3" facs="tcp:156156:3"/>ever we wiſhed for our great Artillery, which came about noone to us; And ſuch diligence we uſed, that before three of the clock we drew it up within halfe Musket ſhot of the Caſtle, and there planted it, though they played upon us all the way both from the Caſtle and Steeple, which we ſo carefully avoyded by wooll<g ref="char:EOLhyphen"/>packes we carryed before us, that there was not one man ſhot in that Service.</p>
+            <p>We placed our peece to ruine one of the Flankers firſt, but when it was ready to play, the Caſtle deſired a Parley, wherein they asked Quarter for goods and life, but that being denyed, they were con<g ref="char:EOLhyphen"/>tent to ſubmit themſelves to the mercy of the Lords, who gave the Women and Children their cloathes, lives, and liberty to depart, the men we kept priſoners.</p>
+            <p>All this while the Steeple held out, nor would they yeeld untill they had conferred with their Captaine, after which they ſubmit<g ref="char:EOLhyphen"/>ted to mercy.</p>
+            <p>In the Caſtle were found 114. able men, beſides 183. Women and Children, 22. pound of Powder, and Bullets anſwerable: in the Steeple were onely 40. men, who had about 12 pound of pow<g ref="char:EOLhyphen"/>der, and ſhot enough. The next day we hanged 117. The <hi>Engliſh</hi> Priſoners we freed, the reſt we kept for exchange of ſuch of ours as were with the Enemy.</p>
+            <p>Thus was this Caſtle delivered unto us after one dayes Siege on<g ref="char:EOLhyphen"/>ly, wherein we loſt not a man: The next day we left a Guard of 40. men in the Caſtle, and marched away to our ſeverall Garriſons, expecting further command from our Generall, which we recei<g ref="char:EOLhyphen"/>ved upon Wedneſday, being the laſt of <hi>Auguſt.</hi>
+            </p>
+            <p>Upon Thurſday, the firſt of <hi>September,</hi> we Marched to <hi>Mallo,</hi> where we were advertiſed from <hi>Liſcarroll,</hi> that the Caſtle was ſtraitly beſieged, and that it was impoſſible, without reliefe, they ſhould hold it more then three dayes: the meſſenger was rewarded and diſpatched with anſwer they ſhould expect us within foure and twenty houres; and that night we mounted our Artillery, two Sakers, two Minions, two Falconets upon their Carri<g ref="char:EOLhyphen"/>ages: and on Friday, the ſecond of <hi>September,</hi> we came about ele<g ref="char:EOLhyphen"/>ven in the forenoone to <hi>Bontinant,</hi> our Rendezvous, being a Village about foure miles diſtant from <hi>Mallo,</hi> and as farre from the enemy; where, in regard the greateſt part of the Army had beene wearied with the former daies March, we encamped that night.</p>
+            <p>
+               <pb n="4" facs="tcp:156156:4"/>Here we were now with the Lord <hi>Inchequin</hi> our Generals for<g ref="char:EOLhyphen"/>ces, full 1700. foote, and ſixe tropes, out of which forty comman<g ref="char:EOLhyphen"/>ded horſe were ſent with Captaine <hi>Bridges</hi> to view their forces, but they returned without any perfect diſcovery.</p>
+            <p>About two in the afternoone their Artillery beganne to play againſt the Caſtle, which continued till night; it was determined therefore by a Councell of Warre, that we ſhould the next mor<g ref="char:EOLhyphen"/>ning ſhew our ſelves before the Caſtle, with reſolution to adven<g ref="char:EOLhyphen"/>ture a battell rather then not to raiſe the ſiege, here they ordered that the Lord <hi>Inchequin</hi> ſhould command the horſe, Sir <hi>Charles Va<g ref="char:EOLhyphen"/>vaſor</hi> the foote, and <hi>Mynne</hi> his Lieutenant Colonell, ſhould be Ser<g ref="char:EOLhyphen"/>jeant Major Generall for that ſervice.</p>
+            <p>But becauſe the ground where the enemy ſtood was extremely diſadvantageous, they determined a full troope ſhould March a a good diſtance before our men, with orders, as the enemy advan<g ref="char:EOLhyphen"/>ced, to retreat; this we did to draw them from their Quarters, which we heard they had fortified.</p>
+            <p>Thus we ſpent the day, at night orders came we ſhould refreſh our ſelves with reſt a while, and be ready to March the next mor<g ref="char:EOLhyphen"/>ning before day.</p>
+            <p>The <hi>Iriſh,</hi> (who have ſtill quicke intelligence of all our actions) reſolve to uſe all diligence to take in the Caſtle firſt, after which they thought to ſet upon us in our owne Quarters, promiſing themſelves a victory, which would ſecure the whole Province to them; and indeed it was not to be doubted but <hi>Youghall, Corke,</hi> and <hi>Kingſale,</hi> in all which were not more then foure hundred Souldiers left, would have cut the throats of their Garriſons, and declared themſelves for the Rebels, had it ſucceeded; herein for their mu<g ref="char:EOLhyphen"/>tuall encouragement, they bound themſelves by oath, receiving the Sacrament upon it, not to quit the field without the vi<g ref="char:EOLhyphen"/>ctory.</p>
+            <p>The next morning about two houres before day, when we were in readineſſe to March, we ſent our forlorne hope before us, conſiſting of thirty commanded horſe, led by Maſter <hi>Sturges</hi> a Gentleman of <hi>King ſale:</hi> the whole Army marched about halfe a mile diſtance after them according to our reſolution the night be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>About break of day they diſcovered a troop of the enemies, which ſtaied not the encounter, but fled to their maine body; wee conti<g ref="char:EOLhyphen"/>nued
+<pb n="5" facs="tcp:156156:4"/>our March, and about halfe an houre after we came in ſight of the Caſtle: the maine body of our horſe was here commanded to make a ſtand on a hill ſide a good <hi>Engliſh</hi> mile diſtant from it, the Lords, <hi>Inchequin, Dungarvan, Kinalmeaky,</hi> and <hi>Brogbill,</hi> Maſter <hi>Francis Boyle,</hi> Captaine <hi>Jepſon,</hi> and <hi>Bridges</hi> went with the Lord <hi>Inchequins</hi> troope to our forlorne hope which ſtood upon a little riſing ground in middle way betwixt us and the Caſtle of <hi>Liſcar<g ref="char:EOLhyphen"/>roll,</hi> the whole Army of the <hi>Iriſh</hi> lay about a mile from them; which upon our firſt appearing was drawne out in perfect good order; and this was the firſt time we ſaw their whole ſtrength, which was I beleeve about ſixe thouſand foote and three hundred horſe.</p>
+            <p>The enemies horſe beganne now to advance toward our for<g ref="char:EOLhyphen"/>lorne troopes, who being now a little nearer the Caſtle, were un<g ref="char:EOLhyphen"/>kindly ſaluted with a peale of ſhot from the place we came to re<g ref="char:EOLhyphen"/>lieve, whereby we firſt diſcovered we had loſt the Caſtle.</p>
+            <p>Their horſe which came on in good order, were all lin'd with Muſqueteeres, ſo that our forlorne hope and the Lord <hi>Inchequins</hi> troope were commanded to retreat, which they performed with much bravery, by making frequent ſtands and facing about to ex<g ref="char:EOLhyphen"/>preſſe how little they feared them: the enemy plied them with continuall ſhot, and got ground of them, yet they kept a moſt perfect order in their retreat; the foure Lords <hi>Inchequin, Dundar<g ref="char:EOLhyphen"/>van, Kinalmeakie,</hi> and <hi>Broghil,</hi> marching ſtill in the reare, and in this height of gallantry, fell the valiant Gentleman, the Lord <hi>Ki<g ref="char:EOLhyphen"/>nalmeakie,</hi> his horſe was brought off by his brother Maſter <hi>Francis Boyle,</hi> as his body had beene, had any life at all remained in him, but that they were forced to leave a prey to the enemy, and retreat to us, who ſtood all this time on the ſide of the hill.</p>
+            <p>But this could not ſtop the current of their good fortune, for they ſtill purſued, their Muſqueteeres running before to buſhes and ditches, from whence, with ſecurity they played upon us; their body of horſe following to ſecond their Muſquets, and their whole Army ready to relieve their horſe upon all engagements: the order the enemy here uſed was excellent, and certainely they had that day Commanders of greater judgement then valour, otherwiſe both we and the whole Province had ſuffered.</p>
+            <p>All our horſe was now forced to retreat toward our foote, but ſo ſlowly that their grand Body of ſixe thouſand advanced faſter
+<pb n="6" facs="tcp:156156:5"/>then we went off; we retreated thus more then halfe a mile, till our foote came to us, out of which we drew ſixty Muſqueteers of Sir <hi>John Brownes</hi> company to beate off their Ambuſhes, they plaid hotly upon us at firſt, ours did the like; the Lord <hi>Inchequin</hi> ſtanding by them on foote, giving directions till the Am<g ref="char:EOLhyphen"/>buſcadoes fled, whereupon their whole Army retreated to the place where they firſt ſtood neare the Caſtle; in their retreat they lodged ſhot in divers places to play on us as we advanced, which were all beaten backe by Captaine <hi>Saint-Leger,</hi> Captaine <hi>Thornton,</hi> and Lieutenant <hi>Rowning,</hi> who were commanded upon that ſervice.</p>
+            <p>And now both ſides beganne to prepare for battell, reſolving that place ſhould decide all doubts betwixt them; they divided their foote into three bodies, each conſiſting of near two thouſand men, the right Wing was placed upon the top of a little ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing ground neare a fortification they had made, which was well man<g ref="char:EOLhyphen"/>ned with ſtore of ſhot, their left Wing ſtood neare the Caſtle within halfe Muſquet ſhot of another worke wherein their Artil<g ref="char:EOLhyphen"/>lery was planted as a guard to it; betwixt theſe two a little behinde them ſtood their maine body, conſiſting moſt of pikes; thus were their foote ordered; the horſe advanced all in one entire body, and made a ſtand neare their right Wing upon the brow of the hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l.</p>
+            <p>Accordingly we divided our men into three parts, our battell which was compoſed of Pikes and Muſquets, being about eight hundred, ſtood upon a little hill where our Artillery was planted almoſt oppoſite to their greateſt body; our right wingled by Sir <hi>Charles Vavaſor,</hi> wherein were about 600. all Muſqueteers, ſtood ore againſt their left Wing, and juſt oppoſite to their right Wing we drew forth three hundred Muſquets led by Captaine <hi>Cooper</hi> and <hi>Hutton</hi> Lieutenant to Serjeant Major <hi>Appl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yard:</hi> on the left hand of theſe we placed our horſe to encounter theirs: thus were the two Armies ranged in Battalia, betweene which was a plaine flat valley interpoſed about twenty ſcoare in breadth.</p>
+            <p>You ſee upon what diſadvantages we fought, they had advan<g ref="char:EOLhyphen"/>tage in number three to one, advantage in ground, beſides two Forts and the Caſtle, to any of which, upon a dy faſter, they might have retreated; the Sunne was for them too, onely God was for us, <hi>Et ſi Deus nobiſcum</hi> (it was the word of one of the Co<g ref="char:EOLhyphen"/>lours
+<pb n="7" facs="tcp:156156:5"/>we tooke) <hi>quis contra nos?</hi> In this poſture we ſtood about halfe an houre, in which time they made foureteene ſhot at our horſe, but without any execution, ours plai'd as faſt upon them, and not with much better ſucceſſe, for onely one ſhot hit which ſlew five of them; our greater ſhot effecting ſo little, we reſolved to charge them with our leſſe, and our horſe was appointed to give the firſt onſet; the Lord <hi>Inchequin</hi> to charge the left hand ſeconded by Captaine <hi>Jepſons</hi> troope, and Captaine <hi>Bridges,</hi> who had the Reare. The right hand the Lord <hi>Dungarvan</hi> was appointed to charge, ſeconded by his brother the Lord <hi>Broghill,</hi> and <hi>Oxenbridge</hi> Lieutenant to the Lord <hi>Barrimore</hi> brought up the Reare; betweene the two Armies (as was before expreſſed) was a little meadow in<g ref="char:EOLhyphen"/>terpoſed about twenty ſcore in breadth, at the upper end of which, neare the place where our horſe muſt neceſſarily paſſe to the charge, ſtood their Huts well lined with Muſqueteeres, which wee ima<g ref="char:EOLhyphen"/>gined (knowing they uſed not to loſe any advantage) and ſent downe ſixty of the three hundred to cleare that paſſage, they diſ<g ref="char:EOLhyphen"/>charged hotly one upon another at firſt, but in fine they left their Huts, and ſought ſecurity behinde their Army. Lieutenant <hi>Ox<g ref="char:EOLhyphen"/>enbridge</hi> was ſent to purſue them, wherin he ſo far engaged his men, that had not all the troopes come to his reliefe, hee had beene cut off, the enemies whole troopes comming downe upon him. But when they ſaw us advance, they made a ſtand, and ſo received the charge: the Lord <hi>Inchequins</hi> troope had the Van, he himſelfe performed it bravely and reſolutely, but his troope (by what miſ<g ref="char:EOLhyphen"/>fortune I know not) retreated, and in it diſordered the Lord <hi>Dung revans,</hi> and the Lord <hi>Broghils,</hi> and all the troopes that fol<g ref="char:EOLhyphen"/>lowed. The Lord <hi>Inchequin</hi> charged <hi>Oliver Stevenſon</hi> a Captaine of their horſe, ſlew him, brought off his horſe with a rich ſaddle, and was himſelfe in great danger, had he not beene relieved by Captaine <hi>Jepſon</hi> and <hi>Bridges,</hi> in which ſervice <hi>Jepſon</hi> was ſlightly wounded in the hand, and his hat cut. The Lord <hi>Dungarvan</hi> charged another of their Captaines, ſhot him with a Piſtoll and wounded him, but ſo neare they were, that before he could reco<g ref="char:EOLhyphen"/>ver his other ſhot, he gave him ſuch a ſtroke with his ſword, that certainly his Lordſhip owes his life to the goodnes of his Armor, without which, out of doubt he had been ſlaine, he was farre enga<g ref="char:EOLhyphen"/>ged and ſtill accompanied by his brother the Lord <hi>Broghill</hi> who behaved himſelfe very gallantly that day, and had beene taken,
+<pb n="8" facs="tcp:156156:6"/>had the enemyes purſued, the advantage they had of our diſorde<g ref="char:EOLhyphen"/>red retreate, but our 300 Muskets, who that day did gallant ſer<g ref="char:EOLhyphen"/>vice, plyed them ſo faſt with ſhot, that they gave both him and the reſt time to get off to ralley their troopes, who were in ſuch confuſion, that it was abſolutely impoſſible to order them ſo ſoone as the neceſſity of the ſervice required; wee feared likewiſe leſt our confuſed retreat ſhould have diſcouraged our Foote; we reſolved therefore to fall about onely, and to the charge againe, which was performed with courage, and good ſucceſſe for the Re<g ref="char:EOLhyphen"/>bels ſeeing us reſolute, they ſtayed only the diſcharging of their firſt ſhot, and fled.</p>
+            <p>Their Foot ſuppoſing they ſhould be unable to reſiſt the fury of both Horſe and Foot, who all this time had found our three hun<g ref="char:EOLhyphen"/>dred Muſquets an equall, (if not an overmatch for them) would have accompanyed their horſe in their flight, could they have fol<g ref="char:EOLhyphen"/>lowed faſt enough, but a great part of this body fell ſhort; our Horſe breaking in and doing much execution, one of their En<g ref="char:EOLhyphen"/>ſignes, and the firſt that I ſaw fall, was ſlaine by the Lord <hi>Broghill,</hi> who ſhot him and brought off his Colours. While we were thus imployed, Sir <hi>Charles Vavaſour</hi> with his 600. fell bravely upon their left wing, which ſtood to guard their Ordinance; the fight there was ſharpe while it laſted, divers fell on their fide, ſome of ours were wounded. Both their Artillery and ſmall ſhot played thicke upon our men from the Fort, one of their Sakers they diſcharged at Sir <hi>Charles</hi> when he was within halfe Musket ſhot, but without doing execution. At length ſeeing our mens reſolu<g ref="char:EOLhyphen"/>tion, and that they were already deſerted by their owne, that their Artillery wherein they did much confide, did not that ſervice was expected, they quitted the Fort and left Sir <hi>Charles</hi> the Artillery, which had beene unſerviceable to them.</p>
+            <p>The third body, which ſtood firme all this time, (and well it might, for it was out of Gunſhot) ſeeing the reſt fly, turned their backes and haſted to their beſt Fort, a Bogge, which was about halfe a mile from them; We purſued, and indeed the execution was bloody and cruell, no man gave Quarter, nor was it fit, con<g ref="char:EOLhyphen"/>ſidering their multitude. Our Horſe was now beyond the furtheſt part of the Wood and Bogge where moſt of the Rebels lay, our
+<pb n="9" facs="tcp:156156:6"/>Foot marched on in good order towards it, ſo that they were on all ſides encompaſſed, and I beleeve they thought themſelves it was impoſſible they ſhould any of them eſcape, and indeed I am confident no conſiderable number had come off from that dayes ſervice, had not my Lord <hi>Inchequin</hi> unfortunately miſtaken our owne men for enemies, and cauſed us to retreat almoſt a mile, be<g ref="char:EOLhyphen"/>fore we diſcovered our errour, in which time they fled to another Bogge, where it was impoſſible to follow them, notwithſtanding we purſued them two miles along the skirts of the Wood, but did no great execution.</p>
+            <p>Thus after a long and doubtfull fight, which continued full ſe<g ref="char:EOLhyphen"/>ven houres, we at laſt obtained a glorious Victory. Theſe were not ſuch as formerly we met, naked Rogues, but brave and gal<g ref="char:EOLhyphen"/>lant men, armed as well as our ſelves, nor did they want any thing but a good cauſe. Twice they made our Horſe, whereon we moſt relyed, to retreate, once they diſordered and almoſt routed us, and then God, as if he would manifeſt it was he alone in whom we ought to repoſe our truſt, cauſed us in that diſorder to van<g ref="char:EOLhyphen"/>quiſh thoſe, from whom when we charged them in perfect order, we but newly had fled. There was ſlaine in this battell about 600. of the Rebels, on our ſide we loſt but five beſide the Lord <hi>Kinalmea<g ref="char:EOLhyphen"/>kie,</hi> about 30 were wounded, whereof divers dyed ſince, ſome of theirs were hurt, but the number is uncertaine.</p>
+            <p>We tooke from them three peeces of Artillery whereof one was a braſſe Demi-canon, of almoſt 7800 weight, the fame of which had won more Caſtles then the valour of their whole Army, the other were Sakers, one Braſſe, the other Iron; beſides theſe we tooke two or three hundred Muskets, and ſo many Pikes they ſer<g ref="char:EOLhyphen"/>ved us for firewood; Of powder we had th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee Barrels, and about 200. Bullets, all which were ſent with the Artillery to <hi>Corke.</hi>
+            </p>
+            <p>Foureteene of their colours we carryed away with us, whereof five were taken by the Lord <hi>Broghils</hi> troope, beſides that he tooke himſelfe: The priſoners were few, becauſe the execution was ſo bloody; notwithſtanding ſome we have of good quality, as Co<g ref="char:EOLhyphen"/>lonell <hi>Butler,</hi> whoſe valour was heretofore recommended by his Majeſty to the King of <hi>Poland,</hi> and indeed this day he ſhewed much gallantneſſe, being the laſt man that ſtood of their whole Army; beſides him we tooke Captaine <hi>Butler, Thomas Burgale,</hi> and their Commiſſary Generall.</p>
+            <p>
+               <pb n="10" facs="tcp:156156:7"/>In the Waggons, whereof thirty were taken, we found ſtore of pillage, and ſome of good value: there were preſent at this fight al<g ref="char:EOLhyphen"/>moſt all the Lords of <hi>Munſter, viz.</hi> the Lord <hi>Bache,</hi> Lord <hi>Muskry,</hi> Lord <hi>Ikerine,</hi> Lord <hi>Dunboine Bureh,</hi> Lord <hi>Britas Bureh,</hi> Lord <hi>Caſter<g ref="char:EOLhyphen"/>onnell Buller,</hi> Brother to the Lord <hi>Ormond,</hi> Sergeant major <hi>Furcell,</hi> Sergeant major <hi>Heneſy.</hi>
+            </p>
+            <p>Thus you have the Relation of that Memorable Battell was fought at <hi>Liſearroll</hi> on Saturday the third of <hi>September,</hi> where, next God, nothing did contribute more to our Victory, then the ne<g ref="char:EOLhyphen"/>ceſſity we had of ſighting; advantages they had of us every way, only we were <hi>Virtute pares, &amp; neceſſitate ſuperiores.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
